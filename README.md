@@ -42,7 +42,7 @@ The project follows a **Clean Architecture** pattern to separate concerns:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/ledger-microservice.git
+    git clone https://github.com/mustafakh994/ledger-microservice.git
     cd ledger-microservice
     ```
 
